@@ -9,7 +9,7 @@ This analysis also aims to observes which features are most helpful in predictin
 Here, following Machine Learning and Deep Learning Models are applied to predict the category of the Breast-Cancer.
 
 * Logistic Regression
-* Nearest Neighbor
+* K-Nearest Neighbor
 * Support Vector Machines
 * Kernel SVM
 * Grid Search CV
